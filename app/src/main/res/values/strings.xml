@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">仿网易云音乐</string>
+    <string name="copyright">Copyright czp gdut %1$d</string>
+    <string name="test">czp</string>
+
+    <string name="home">首页</string>
+    <string name="video">视频</string>
+    <string name="me">我的</string>
+    <string name="feed">动态</string>
+
+    <string name="search">搜索</string>
+
+    <string name="song_count">%1$d首</string>
+
+    <string name="sheet">歌单</string>
+
+    <string name="load_success">加载成功</string>
+    <string name="error_load">加载失败</string>
+
+    <string name="refresh_success_new_data_added">刷新成功，新增%1$d条数据</string>
+    <string name="refresh_fail_reason">刷新成功，%1$s</string>
+    <string name="error_reason">错误原因：%1$s</string>
+    <string name="unknown_error">未知错误，请检查网络以及服务端</string>
+    <string name="error_load_click">加载失败，点击重试</string>
+    <string name="error_message_click_retry">%1$s，点击重试</string>
+    <string name="click_retry">点击重试</string>
+
+    <string name="error_connect_server">连接服务器失败，请检查服务端是否运行</string>
+    <string name="error_loading">请求数据失败，详情请查看错误日志，%1$s</string>
+    <string name="error_network_not_connect">你的网络好像不太好</string>
+
+    <string name="player_progress_format" translatable="false">%1$s:%2$s</string>
+
+    <string name="login_or_register">登录或注册</string>
+    <string name="login_error">登录失败</string>
+    <string name="code_login">验证码登录</string>
+    <string name="username_login">用户名和密码登录</string>
+    <string name="login_now">立即登录</string>
+    <string name="logout">退出登录</string>
+    <string name="register">立即注册</string>
+
+    <string name="skip_ad_count">跳过%1$ds</string>
+
+    <string name="phone_or_email">手机号或邮箱</string>
+    <string name="enter_phone_or_email">请输入手机号或邮箱</string>
+    <string name="enter_email">请输入邮箱</string>
+    <string name="confirm_password">确认密码</string>
+    <string name="enter_confirm_password">请输入确认密码</string>
+    <string name="enter_code">请输入验证码</string>
+    <string name="error_nickname_format">昵称格式不正确(2~10位)</string>
+    <string name="error_phone_format">手机号格式不正确</string>
+    <string name="error_email_format">邮箱格式不正确</string>
+    <string name="error_confirm_password_format">确认密码格式不正确</string>
+    <string name="error_confirm_password">两次密码不正确</string>
+    <string name="empty_data">没有数据</string>
+    <string name="enter_password">请输入密码(6~15位)</string>
+    <string name="password">用户密码</string>
+    <string name="login">登录</string>
+    <string name="forgot_password">忘记密码</string>
+
+    <string name="error_username_format">用户名格式不正确</string>
+    <string name="error_password_format">密码格式不正确</string>
+
+    <string name="unfinished_fun">该功能未完成</string>
+    <string name="unfinished_page">该页面未完成</string>
+
+    <string name="show_more">查看更多</string>
+    <string name="recommend_sheet">推荐歌单</string>
+    <string name="recommend_song">推荐单曲</string>
+</resources>
