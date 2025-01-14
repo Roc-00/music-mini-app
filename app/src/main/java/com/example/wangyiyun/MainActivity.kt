@@ -48,7 +48,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     WangyiyunTheme {
-        Button(onClick = { /*TODO*/ }) {
+        Button(onClick = {  }) {
             Text(text = "点击")
         }
     }

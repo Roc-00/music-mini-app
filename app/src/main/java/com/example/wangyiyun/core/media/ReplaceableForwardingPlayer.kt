@@ -180,7 +180,6 @@ class ReplaceableForwardingPlayer(private var player: Player) : Player {
     }
 
     override fun replaceMediaItem(index: Int, mediaItem: MediaItem) {
-        TODO("Not yet implemented")
     }
 
     override fun replaceMediaItems(
@@ -188,7 +187,6 @@ class ReplaceableForwardingPlayer(private var player: Player) : Player {
         toIndex: Int,
         mediaItems: MutableList<MediaItem>
     ) {
-        TODO("Not yet implemented")
     }
 
     override fun removeMediaItem(index: Int) {
